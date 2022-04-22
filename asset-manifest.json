@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/imrannonari/modern.git/static/css/main.dc7ce3dd.chunk.css",
+    "main.js": "/imrannonari/modern.git/static/js/main.6f5ff036.chunk.js",
+    "main.js.map": "/imrannonari/modern.git/static/js/main.6f5ff036.chunk.js.map",
+    "runtime-main.js": "/imrannonari/modern.git/static/js/runtime-main.eea228e2.js",
+    "runtime-main.js.map": "/imrannonari/modern.git/static/js/runtime-main.eea228e2.js.map",
+    "static/css/2.983f79de.chunk.css": "/imrannonari/modern.git/static/css/2.983f79de.chunk.css",
+    "static/js/2.d829e1f9.chunk.js": "/imrannonari/modern.git/static/js/2.d829e1f9.chunk.js",
+    "static/js/2.d829e1f9.chunk.js.map": "/imrannonari/modern.git/static/js/2.d829e1f9.chunk.js.map",
+    "static/js/3.2792d58e.chunk.js": "/imrannonari/modern.git/static/js/3.2792d58e.chunk.js",
+    "static/js/3.2792d58e.chunk.js.map": "/imrannonari/modern.git/static/js/3.2792d58e.chunk.js.map",
+    "index.html": "/imrannonari/modern.git/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/imrannonari/modern.git/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.dc7ce3dd.chunk.css.map": "/imrannonari/modern.git/static/css/main.dc7ce3dd.chunk.css.map",
+    "static/js/2.d829e1f9.chunk.js.LICENSE.txt": "/imrannonari/modern.git/static/js/2.d829e1f9.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/imrannonari/modern.git/static/media/Background.d23debdd.jpg",
+    "static/media/gp1-2.14b64313.png": "/imrannonari/modern.git/static/media/gp1-2.14b64313.png",
+    "static/media/img1.7a561c7b.png": "/imrannonari/modern.git/static/media/img1.7a561c7b.png",
+    "static/media/logo.6ce24c58.svg": "/imrannonari/modern.git/static/media/logo.6ce24c58.svg",
+    "static/media/p-4.8d72c52d.png": "/imrannonari/modern.git/static/media/p-4.8d72c52d.png",
+    "static/media/p1.f87a1109.png": "/imrannonari/modern.git/static/media/p1.f87a1109.png",
+    "static/media/p2.1b8d48e1.png": "/imrannonari/modern.git/static/media/p2.1b8d48e1.png",
+    "static/media/p3.eaaf1955.png": "/imrannonari/modern.git/static/media/p3.eaaf1955.png",
+    "static/media/p5.e814529a.png": "/imrannonari/modern.git/static/media/p5.e814529a.png",
+    "static/media/p6.bb46eeea.png": "/imrannonari/modern.git/static/media/p6.bb46eeea.png",
+    "static/media/p7.8412de16.png": "/imrannonari/modern.git/static/media/p7.8412de16.png",
+    "static/media/pg1-3.1cca10de.png": "/imrannonari/modern.git/static/media/pg1-3.1cca10de.png",
+    "static/media/ph-1.11712d7e.png": "/imrannonari/modern.git/static/media/ph-1.11712d7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea228e2.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.d829e1f9.chunk.js",
+    "static/css/main.dc7ce3dd.chunk.css",
+    "static/js/main.6f5ff036.chunk.js"
+  ]
+}
